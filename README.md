@@ -38,8 +38,8 @@ Built as part of a Machine Learning internship task list (3 of 4 tasks completed
 - ⚠️ Votes measures *popularity*, not quality, and only exists after people have reviewed a place. **Without votes the model drops to R² 0.54**, which is the honest estimate for a brand-new restaurant.
 
 <p align="center">
-  <img src="assets/task1_feature_importance.png" width="48%" alt="Feature importance">
-  <img src="assets/task1_predicted_vs_actual.png" width="48%" alt="Predicted vs actual ratings">
+  <img src="task1_feature_importance.png" width="48%" alt="Feature importance">
+  <img src="task1_predicted_vs_actual.png" width="48%" alt="Predicted vs actual ratings">
 </p>
 
 **Data traps handled (they silently ruin naive models):**
@@ -76,13 +76,13 @@ Also handles typos with suggestions (`"North Indain"` → `north indian`), unkno
 
 > **Honest limit:** the dataset has no user history (clicks/orders), so real-world accuracy can't be measured. These checks show the logic is correct and adds value over random, not that real users will love the picks.
 
-<p align="center"><img src="assets/task2_evaluation.png" width="70%" alt="Recommendation evaluation"></p>
+<p align="center"><img src="task2_evaluation.png" width="70%" alt="Recommendation evaluation"></p>
 
 ---
 
 ## 3️⃣ Location-based analysis
 
-<p align="center"><img src="assets/task4_maps.png" width="100%" alt="Maps of restaurants: world, India, Delhi NCR coloured by rating"></p>
+<p align="center"><img src="task4_maps.png" width="100%" alt="Maps of restaurants: world, India, Delhi NCR coloured by rating"></p>
 
 **What the data shows**
 - **Delhi NCR holds 83.2%** of all restaurants (New Delhi 57%, Gurgaon 12%, Noida 11%).
@@ -91,11 +91,11 @@ Also handles typos with suggestions (`"North Indain"` → `north indian`), unkno
 - Average rating rises with price range: **3.24 → 3.89** from the cheapest to the priciest tier (Spearman 0.40). Restaurants with table booking rate higher (3.59 vs 3.41).
 - Locality size has **no relationship** with rating (Spearman −0.03).
 
-<p align="center"><img src="assets/task4_insights.png" width="100%" alt="Insight charts"></p>
+<p align="center"><img src="task4_insights.png" width="100%" alt="Insight charts"></p>
 
 **A warning worth knowing:** outside Delhi NCR the file holds only ~20 popular restaurants per city (136 cities, ~4× the average votes), so "other cities rate higher" mostly reflects *which restaurants were collected*, not that NCR food is worse. Other data issues found: wrong GPS points (including one test record), and a mislabelled currency for one country code.
 
-Interactive maps (download and open in a browser): [`results/task4_heatmap.html`](results/task4_heatmap.html) · [`results/task4_top_rated_map.html`](results/task4_top_rated_map.html)
+Interactive maps (download and open in a browser): [`task4_heatmap.html`](task4_heatmap.html) · [`task4_top_rated_map.html`](task4_top_rated_map.html)
 
 ---
 
@@ -122,8 +122,9 @@ restaurant-ml-analysis/
 ├── Task1_Restaurant_Rating_Prediction.ipynb
 ├── Task2_Restaurant_Recommendation.ipynb
 ├── Task4_Location_Analysis.ipynb
-├── assets/        # charts used in this README
-├── results/       # model comparison, city/locality statistics, interactive maps
+├── task1_*.png / task2_*.png / task4_*.png   # charts
+├── task*_*.csv                               # model comparison, city/locality statistics
+├── task4_heatmap.html, task4_top_rated_map.html   # interactive maps
 ├── requirements.txt
 └── README.md
 ```
@@ -140,4 +141,4 @@ Python · pandas · NumPy · scikit-learn (Pipelines, GridSearchCV, permutation 
 
 ## 👤 Author
 **Manish Chandra Raturi**
-🔗 LinkedIn: (https://www.linkedin.com/in/manish-raturi-9bb028388/) · 💻 GitHub: https://github.com/manishchandraraturi · ✉️ manishcraturi06@gmail.com
+🔗 LinkedIn: _add your link_ · 💻 GitHub: _add your link_ · ✉️ _add your email_
