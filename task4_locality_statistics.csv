@@ -1,0 +1,99 @@
+Locality Verbose,restaurants,avg_rating,avg_price_range,avg_votes,online_delivery_pct,table_booking_pct,unrated_pct,top_cuisine
+"Connaught Place, New Delhi",122,3.78,2.6,1050.07,42.62,44.26,2.46,North Indian
+"Rajouri Garden, New Delhi",99,3.63,2.2,259.52,45.45,34.34,1.01,North Indian
+"Shahdara, New Delhi",87,3.0,1.14,7.69,0.0,0.0,52.87,North Indian
+"Defence Colony, New Delhi",86,3.49,1.93,181.37,56.98,27.91,8.14,North Indian
+"Pitampura, New Delhi",85,3.17,1.47,47.64,48.24,3.53,9.41,North Indian
+"Malviya Nagar, New Delhi",84,3.42,1.77,143.9,76.19,10.71,0.0,North Indian
+"Mayur Vihar Phase 1, New Delhi",84,2.99,1.3,22.52,26.19,4.76,32.14,North Indian
+"Rajinder Nagar, New Delhi",81,3.06,1.43,63.84,46.91,6.17,3.7,North Indian
+"Safdarjung, New Delhi",80,3.25,1.68,110.46,35.0,8.75,13.75,North Indian
+"Satyaniketan, New Delhi",79,3.53,1.62,208.33,43.04,10.13,1.27,Chinese
+"Karol Bagh, New Delhi",76,3.24,1.57,96.12,42.11,14.47,5.26,North Indian
+"Krishna Nagar, New Delhi",76,3.09,1.26,13.41,9.21,1.32,39.47,North Indian
+"Sector 62, Noida",76,3.03,1.42,33.67,26.32,3.95,35.53,Chinese
+"Sector 18, Noida",75,3.37,2.13,294.96,68.0,37.33,0.0,North Indian
+"Hauz Khas, New Delhi",74,3.25,1.54,74.47,36.49,9.46,22.97,North Indian
+"Kalkaji, New Delhi",73,3.12,1.38,49.97,41.1,2.74,4.11,North Indian
+"Mahipalpur, New Delhi",69,2.96,1.46,4.19,2.9,10.14,63.77,North Indian
+"DLF Phase 3, Gurgaon",69,3.2,1.43,57.06,66.67,2.9,0.0,North Indian
+"Mukherjee Nagar, New Delhi",68,3.01,1.07,3.18,2.94,0.0,64.71,North Indian
+"Chandni Chowk, New Delhi",67,3.36,1.12,99.7,1.49,0.0,17.91,North Indian
+"Shalimar Bagh, New Delhi",67,3.16,1.22,25.34,14.93,0.0,31.34,North Indian
+"Greater Kailash (GK) 1, New Delhi",66,3.7,2.21,160.17,62.12,24.24,0.0,Fast Food
+"Greater Kailash (GK) 2, New Delhi",66,3.55,2.18,210.52,56.06,33.33,0.0,North Indian
+"Delhi University-GTB Nagar, New Delhi",65,3.3,1.46,299.85,38.46,12.31,16.92,Chinese
+"Kamla Nagar, New Delhi",65,3.45,1.45,83.26,30.77,7.69,4.62,North Indian
+"Paharganj, New Delhi",64,3.0,1.69,44.78,7.81,20.31,6.25,North Indian
+"Vasundhara Enclave, New Delhi",62,3.05,1.1,5.31,3.23,0.0,72.58,North Indian
+"Jail Road, New Delhi",61,3.12,1.21,28.79,24.59,3.28,18.03,North Indian
+"Sector 72, Noida",61,3.03,1.44,6.59,18.03,3.28,57.38,North Indian
+"Vikaspuri, New Delhi",60,3.07,1.35,22.2,10.0,6.67,6.67,North Indian
+"Punjabi Bagh, New Delhi",60,3.39,1.9,77.83,60.0,23.33,0.0,North Indian
+"Palam, New Delhi",60,2.9,1.2,2.08,1.67,0.0,80.0,North Indian
+"Tilak Nagar, New Delhi",60,3.05,1.12,6.0,5.0,0.0,55.0,North Indian
+"Najafgarh, New Delhi",60,2.9,1.07,0.6,0.0,3.33,98.33,North Indian
+"Uttam Nagar, New Delhi",59,2.91,1.08,5.02,25.42,0.0,40.68,North Indian
+"Laxmi Nagar, New Delhi",58,3.04,1.33,42.28,36.21,0.0,8.62,North Indian
+"Dilshad Garden, New Delhi",57,3.05,1.33,21.75,15.79,1.75,43.86,North Indian
+"Jangpura, New Delhi",57,3.12,1.33,37.79,31.58,3.51,38.6,North Indian
+"Paschim Vihar, New Delhi",56,3.15,1.39,48.84,58.93,1.79,0.0,Fast Food
+"East of Kailash, New Delhi",56,3.08,1.36,20.7,26.79,1.79,53.57,North Indian
+"Kirti Nagar, New Delhi",56,3.09,1.77,40.43,25.0,21.43,0.0,North Indian
+"Sector 56, Gurgaon",54,3.04,1.41,12.04,20.37,1.85,44.44,North Indian
+"Naraina, New Delhi",54,3.01,1.15,6.85,5.56,1.85,51.85,North Indian
+"Sector 110, Noida",53,3.02,1.64,34.21,41.51,9.43,32.08,North Indian
+"Sector 14, Gurgaon",52,3.0,1.42,19.17,23.08,7.69,13.46,North Indian
+"Subhash Nagar, New Delhi",51,3.03,1.12,4.12,1.96,1.96,64.71,North Indian
+"East Patel Nagar, New Delhi",50,3.23,1.52,52.06,34.0,12.0,18.0,North Indian
+"Palam Vihar, Gurgaon",49,3.01,1.31,4.18,4.08,2.04,67.35,North Indian
+"Preet Vihar, New Delhi",49,3.13,1.37,30.65,26.53,8.16,38.78,North Indian
+"Netaji Subhash Place, New Delhi",48,3.53,1.65,159.62,45.83,12.5,0.0,Fast Food
+"Rohini, New Delhi",48,3.35,1.54,94.04,64.58,8.33,0.0,North Indian
+"IP Extension, New Delhi",47,3.06,1.3,35.53,29.79,8.51,40.43,North Indian
+"New Friends Colony, New Delhi",47,3.13,1.57,33.55,19.15,6.38,27.66,North Indian
+"Chittaranjan Park, New Delhi",46,3.13,1.52,56.89,30.43,8.7,21.74,North Indian
+"Janakpuri, New Delhi",46,3.32,1.74,87.2,76.09,10.87,0.0,North Indian
+"Green Park, New Delhi",46,3.29,1.83,116.2,39.13,23.91,26.09,Chinese
+"Sector 41, Noida",45,3.16,1.53,29.38,48.89,0.0,28.89,North Indian
+"Khan Market, New Delhi",44,3.8,2.7,646.93,29.55,34.09,2.27,Italian
+"Munirka, New Delhi",43,3.04,1.26,15.19,11.63,2.33,48.84,Chinese
+"Sector 132, Noida",43,2.94,1.4,6.3,11.63,2.33,67.44,North Indian
+"Daryaganj, New Delhi",43,3.29,1.37,59.98,6.98,4.65,44.19,North Indian
+"Anand Vihar, New Delhi",42,3.28,1.38,31.29,16.67,0.0,35.71,Fast Food
+"Sohna Road, Gurgaon",42,3.26,1.88,58.67,54.76,19.05,0.0,North Indian
+"Lajpat Nagar 1, New Delhi",42,3.13,1.24,24.33,42.86,2.38,54.76,North Indian
+"Nangloi, New Delhi",41,,1.02,0.15,0.0,0.0,100.0,North Indian
+"Cyber Hub, DLF Cyber City, Gurgaon",41,3.86,2.8,882.56,51.22,53.66,0.0,North Indian
+"Old Railway Road, Gurgaon",41,3.09,1.41,14.59,12.2,2.44,12.2,North Indian
+"South Extension 2, New Delhi",41,3.33,1.76,61.9,24.39,12.2,17.07,Chinese
+"Moti Nagar, New Delhi",40,3.22,1.4,14.92,7.5,5.0,42.5,North Indian
+"Janpath, New Delhi",39,3.57,2.21,234.21,17.95,33.33,15.38,North Indian
+"Gujranwala Town, New Delhi",39,3.28,1.36,26.18,2.56,2.56,38.46,North Indian
+"Sector 29, Gurgaon",38,3.89,2.87,549.5,28.95,68.42,0.0,North Indian
+"GTB Nagar, New Delhi",38,3.36,1.53,65.24,15.79,10.53,52.63,North Indian
+"Greater Noida, Noida",38,2.95,1.53,15.87,39.47,13.16,36.84,North Indian
+"R K Puram, New Delhi",38,3.18,1.34,73.21,28.95,2.63,57.89,North Indian
+"The Great India Place, Sector 38, Noida",37,3.16,2.0,172.43,21.62,24.32,16.22,North Indian
+"Udyog Vihar, Gurgaon",37,3.02,1.49,4.68,21.62,2.7,64.86,North Indian
+"Vasant Vihar, New Delhi",36,3.27,1.56,29.56,27.78,8.33,33.33,Bakery
+"Ashok Vihar Phase 1, New Delhi",36,3.09,1.36,27.33,13.89,2.78,44.44,Chinese
+"Saket, New Delhi",36,3.26,1.69,108.94,27.78,13.89,11.11,North Indian
+"Vivek Vihar, New Delhi",36,3.1,1.19,26.83,25.0,0.0,36.11,Chinese
+"Tagore Garden, New Delhi",36,3.28,1.33,45.78,22.22,8.33,41.67,North Indian
+"Sector 31, Gurgaon",35,3.2,1.43,64.89,45.71,5.71,11.43,North Indian
+"Sainik Farms, New Delhi",35,2.75,1.14,3.43,14.29,0.0,71.43,North Indian
+"Sector 50, Noida",35,2.95,1.71,109.34,48.57,14.29,17.14,North Indian
+"Geeta Colony, New Delhi",34,3.08,1.21,9.09,0.0,0.0,55.88,North Indian
+"MG Road, New Delhi",34,2.95,1.26,0.79,5.88,2.94,94.12,North Indian
+"Nehru Place, New Delhi",32,3.2,1.53,85.03,25.0,12.5,21.88,North Indian
+"Alaknanda, New Delhi",32,3.13,1.38,32.41,28.12,0.0,25.0,North Indian
+"Chanakyapuri, New Delhi",32,3.09,1.84,50.72,6.25,18.75,12.5,Chinese
+"Mayur Vihar Phase 3, New Delhi",32,2.94,1.28,13.22,6.25,6.25,37.5,North Indian
+"DLF Mall of India, Sector 18,  Noida, Noida",31,3.84,2.23,267.0,38.71,32.26,0.0,Fast Food
+"Sector 45, Gurgaon",31,3.15,1.35,32.94,29.03,0.0,51.61,North Indian
+"Lodhi Colony, New Delhi",31,3.29,2.03,209.81,25.81,32.26,3.23,North Indian
+"Vijay Nagar, New Delhi",31,3.61,1.48,395.84,41.94,12.9,0.0,Chinese
+"Sector 15, Faridabad",31,3.43,1.48,83.9,22.58,3.23,0.0,Fast Food
+"Logix City Centre, Sector 32, Noida, Noida",30,3.02,1.57,9.63,26.67,0.0,36.67,Fast Food
+"Sushant Lok, Gurgaon",30,3.5,1.77,36.2,50.0,3.33,16.67,North Indian

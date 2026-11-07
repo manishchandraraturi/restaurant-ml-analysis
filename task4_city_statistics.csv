@@ -1,0 +1,78 @@
+City,restaurants,avg_rating,avg_price_range,avg_votes,online_delivery_pct,table_booking_pct,unrated_pct,top_cuisine
+New Delhi,5473,3.3,1.62,114.81,27.21,13.06,26.04,North Indian
+Gurgaon,1118,3.33,1.86,118.21,38.01,18.25,20.39,North Indian
+Noida,1080,3.16,1.6,68.04,33.7,10.37,35.56,North Indian
+Faridabad,251,3.1,1.45,25.84,13.94,5.98,39.84,North Indian
+Ghaziabad,25,3.1,1.8,94.64,40.0,12.0,8.0,North Indian
+Bhubaneshwar,21,3.98,1.86,202.05,0.0,0.0,0.0,Chinese
+Guwahati,21,4.19,2.52,236.38,0.0,0.0,0.0,Chinese
+Lucknow,21,4.2,2.57,434.76,0.0,0.0,0.0,Cafe
+Ahmedabad,21,4.16,2.57,584.1,52.38,0.0,0.0,Continental
+Amritsar,21,3.69,1.81,174.52,0.0,0.0,0.0,North Indian
+Abu Dhabi,20,4.3,3.3,302.25,55.0,30.0,0.0,Indian
+Albany,20,3.56,1.7,83.8,0.0,0.0,0.0,American
+Agra,20,3.96,2.65,103.1,0.0,0.0,0.0,North Indian
+Bhopal,20,3.95,2.15,143.85,0.0,0.0,0.0,Fast Food
+Bangalore,20,4.38,2.7,2805.75,35.0,30.0,0.0,North Indian
+Aurangabad,20,3.38,2.2,64.8,0.0,0.0,0.0,North Indian
+Augusta,20,4.13,2.15,395.45,0.0,0.0,0.0,American
+Auckland,20,4.28,3.05,339.75,0.0,0.0,0.0,Cafe
+Athens,20,4.2,1.6,637.5,0.0,0.0,0.0,American
+Ankara,20,4.3,2.8,131.35,0.0,0.0,0.0,Kebab
+Allahabad,20,3.4,2.65,69.6,0.0,0.0,0.0,North Indian
+Colombo,20,3.87,2.85,146.45,0.0,0.0,0.0,American
+Columbus,20,4.03,2.15,269.35,0.0,0.0,0.0,American
+Dalton,20,4.11,1.4,128.05,0.0,0.0,0.0,American
+Bras�_lia,20,3.68,3.1,10.85,0.0,0.0,5.0,Brazilian
+Cape Town,20,4.11,3.2,270.75,0.0,5.0,0.0,Cafe
+Cedar Rapids/Iowa City,20,4.16,2.05,332.3,0.0,0.0,0.0,American
+Boise,20,4.26,2.05,519.05,0.0,0.0,0.0,American
+Birmingham,20,3.87,2.4,69.65,0.0,10.0,5.0,British
+Dubai,20,4.37,3.05,934.65,30.0,60.0,0.0,Indian
+Doha,20,4.06,3.65,163.8,0.0,5.0,0.0,Indian
+Des Moines,20,4.24,2.15,554.6,0.0,0.0,0.0,American
+Dehradun,20,4.05,3.05,121.5,0.0,0.0,0.0,North Indian
+Davenport,20,4.13,2.0,151.1,0.0,0.0,10.0,American
+Gainesville,20,4.04,1.75,220.4,0.0,0.0,0.0,Sandwich
+Dubuque,20,3.54,1.9,101.05,0.0,0.0,0.0,American
+Edinburgh,20,4.09,2.9,112.3,0.0,10.0,0.0,Cafe
+Goa,20,4.24,3.65,754.9,0.0,0.0,0.0,Seafood
+Indore,20,3.97,2.75,238.85,0.0,0.0,0.0,North Indian
+Kanpur,20,3.82,2.7,94.9,0.0,0.0,0.0,North Indian
+Jaipur,20,4.13,2.85,552.4,50.0,0.0,0.0,Continental
+Kochi,20,4.08,2.05,359.95,25.0,0.0,0.0,Kerala
+Kolkata,20,4.26,2.85,2229.65,40.0,45.0,0.0,North Indian
+Chennai,20,4.31,2.45,1384.75,65.0,65.0,0.0,North Indian
+Coimbatore,20,4.14,2.4,210.95,35.0,0.0,0.0,North Indian
+Ludhiana,20,3.98,2.65,143.05,0.0,0.0,0.0,North Indian
+London,20,4.54,3.0,436.2,0.0,30.0,0.0,Indian
+Mangalore,20,3.74,2.5,218.35,0.0,0.0,0.0,North Indian
+Macon,20,4.12,2.05,263.6,0.0,0.0,0.0,Sushi
+Mumbai,20,4.08,2.75,1484.85,35.0,45.0,0.0,Italian
+Mysore,20,3.7,2.45,212.9,0.0,0.0,0.0,North Indian
+Nagpur,20,3.96,2.3,172.8,50.0,0.0,0.0,Chinese
+Manchester,20,4.04,2.7,203.8,0.0,10.0,0.0,American
+Nashik,20,3.52,2.8,104.75,0.0,0.0,0.0,North Indian
+Orlando,20,4.47,2.9,1199.45,0.0,0.0,0.0,American
+Patna,20,3.45,2.45,76.0,0.0,0.0,0.0,North Indian
+Pensacola,20,4.2,2.35,844.5,0.0,0.0,0.0,Seafood
+Pocatello,20,3.67,1.8,130.35,0.0,0.0,5.0,American
+Pretoria,20,4.19,3.7,156.3,0.0,0.0,0.0,Burger
+Puducherry,20,3.73,3.0,342.4,0.0,0.0,0.0,Continental
+Pune,20,4.22,2.95,1036.6,35.0,65.0,0.0,North Indian
+Ranchi,20,3.45,2.05,90.35,0.0,0.0,0.0,North Indian
+Rest of Hawaii,20,4.41,2.35,752.75,0.0,0.0,0.0,Seafood
+Rio de Janeiro,20,4.49,3.5,20.05,0.0,0.0,5.0,Brazilian
+Savannah,20,4.15,2.35,768.85,0.0,0.0,0.0,American
+Sharjah,20,4.03,3.3,243.65,55.0,0.0,0.0,Indian
+Singapore,20,3.58,3.65,31.9,0.0,0.0,0.0,American
+Sioux City,20,3.76,1.9,157.8,0.0,0.0,0.0,American
+Surat,20,3.94,2.65,183.35,0.0,0.0,0.0,Italian
+S��o Paulo,20,4.15,3.6,27.95,0.0,0.0,15.0,Brazilian
+Tampa Bay,20,4.41,2.55,1370.35,0.0,0.0,0.0,Seafood
+Vadodara,20,4.03,2.6,186.0,0.0,0.0,0.0,North Indian
+Valdosta,20,3.72,2.25,210.0,0.0,0.0,0.0,Mexican
+Varanasi,20,3.51,2.45,86.45,0.0,0.0,0.0,North Indian
+Vizag,20,4.0,2.35,163.85,0.0,0.0,0.0,North Indian
+Waterloo,20,3.65,1.75,104.15,0.0,0.0,0.0,American
+Wellington City,20,4.25,3.25,146.3,0.0,0.0,0.0,Cafe

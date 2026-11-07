@@ -1,0 +1,6 @@
+Model,MSE,RMSE,MAE,R2 (test),"R2 (5-fold CV, train)"
+Random Forest,0.1076,0.328,0.2427,0.6521,0.5938
+Gradient Boosting,0.1113,0.3337,0.2495,0.64,0.5976
+Linear Regression,0.121,0.3478,0.2614,0.6088,0.5646
+Decision Tree,0.1322,0.3636,0.2705,0.5726,0.5199
+Baseline (predict mean),0.3093,0.5561,0.4552,-0.0001,-0.0003
