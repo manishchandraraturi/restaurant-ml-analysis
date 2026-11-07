@@ -1,0 +1,7 @@
+# Dataset is not redistributed in this repo (add it locally, see README).
+# If your repo is PRIVATE and you want it stored here, delete the next line.
+Dataset.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
