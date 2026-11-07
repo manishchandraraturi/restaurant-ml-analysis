@@ -141,4 +141,6 @@ Python · pandas · NumPy · scikit-learn (Pipelines, GridSearchCV, permutation 
 
 ## 👤 Author
 **Manish Chandra Raturi**
-🔗 LinkedIn: _add your link_ · 💻 GitHub: _add your link_ · ✉️ _add your email_
+🔗 LinkedIn:(https://www.linkedin.com/in/manish-raturi-9bb028388/) 
+💻 GitHub:(https://github.com/manishchandraraturi) 
+✉️ manishcraturi06@gmail.com
